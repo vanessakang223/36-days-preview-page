@@ -14,14 +14,14 @@ html, body {
   /* max-width: 600px; Adjust the value to change the maximum width of the grid */
   /* margin-right: 40px; Adjust the value to change the space between the grid and the large image */
   margin-top: 15vh;
-  margin-left:10vw ;
+  margin-left:8vw ;
 
 }
 
 .grid-item {
   width: 100%;
   height: auto;
-  max-width: 25px;
+  max-width: 21px;
   margin-bottom: 12px;
   margin-right: 12px;
 }
