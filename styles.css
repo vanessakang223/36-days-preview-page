@@ -13,17 +13,17 @@ html, body {
   /* grid-row-gap: 10px; */
   /* max-width: 600px; Adjust the value to change the maximum width of the grid */
   /* margin-right: 40px; Adjust the value to change the space between the grid and the large image */
-  margin-top: 14vh;
-  margin-left:10vw ;
+  margin-top: 17vh;
+  margin-left:12vw ;
 
 }
 
 .grid-item {
   width: 100%;
   height: auto;
-  max-width: 65px;
-  margin-bottom: 11px;
-  margin-right: 11px;
+  max-width: 60px;
+  margin-bottom: 9px;
+  margin-right: 9px;
 }
 
 #image-display {
