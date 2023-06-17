@@ -16,6 +16,9 @@
 .grid-item {
   width: 100%;
   height: auto;
+  max-width: 80px;
+  grid-row-gap: 40px;
+  grid-gap: 10px; /* Adjust the value to change the gap between grid items */
 }
 
 #image-display {
@@ -31,4 +34,8 @@
   max-width: 400px;
   max-height: 400px;
   /* border: 2px solid black; */
+}
+
+body{
+  background-color: black;
 }
