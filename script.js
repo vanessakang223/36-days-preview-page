@@ -5,7 +5,9 @@ function displayImage(src) {
   displayedImage.src = src;
 }
 
-// Set the default image on page load
 window.addEventListener("load", function() {
-  displayImage(defaultImageSrc);
+  var zoomText = document.getElementById("zoom-text");
+  setTimeout(function() {
+    zoomText.classList.add("hide");
+  }, 1000);
 });
